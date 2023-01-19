@@ -1,7 +1,7 @@
 # Random Useful Portal 2 Configs
-its just a bunch of random useful config things!
+Bunch of random things I've got in my extra (or other places) that are just useful to have
 
-mostly made for srconfigs users if you dont use srconfigs then go figure out some of this stuff yourself ig lol
+Intended for use with [srconfigs](https://github.com/p2sr/srconfigs)
 
 ## Commands
 - `__save_hud` - Saves the current state of your SAR hud, includes most things people will likely use lol
@@ -16,11 +16,18 @@ mostly made for srconfigs users if you dont use srconfigs then go figure out som
 - `clipbrush_toggle` - Toggle clipbrushes (to 2)
 - `+quickzoom` (hold bind) quickzoom
 - `+holdzoom` (hold bind) normal hold zoom
+
+All toggle commands have an equivilent +/- command.
 ## Svars
 | Svar         | Description
 |--------------|-----------|
 | viewmodel_offset | Offset of the viewmodel (on x axis) (for zoom binds)      |
 | fov      | Player FOV  |
+
+## Special thanks to
+AMJ - i sent him my configs and he like made all of this better thanks
+
+Jerms - I think he helped me a lot in technichal-help channel
 
 ## hi
 if theres any issues then lmk on like discord or make an issue or something I'm not sure
