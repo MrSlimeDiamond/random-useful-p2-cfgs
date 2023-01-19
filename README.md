@@ -29,5 +29,7 @@ AMJ - i sent him my configs and he like made all of this better thanks
 
 Jerms - I think he helped me a lot in technichal-help channel
 
+fin - mostly made render configs
+
 ## hi
 if theres any issues then lmk on like discord or make an issue or something I'm not sure
